@@ -1,0 +1,11 @@
+variable "env" {}
+variable "private_subnets" {}
+variable "identifier" {}
+variable "rds_engine" {}
+variable "rds_engine_version" {}
+variable "rds_instance_class" {}
+variable "rds_storage" {}
+variable "rds_username" {}
+variable "rds_password" {}
+variable "rds_sg" {}
+variable "rds_storage_type" {}

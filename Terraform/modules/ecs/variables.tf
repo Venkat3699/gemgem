@@ -1,0 +1,10 @@
+variable "env" {}
+variable "task_family" {}
+variable "container_name" {}
+variable "image_name" {}
+variable "cpu" {}
+variable "memory" {}
+variable "container_port" {}
+variable "host_port" {}
+variable "desired_count" {}
+variable "ecs_service_name" {}
